@@ -8,9 +8,10 @@ currently under review. Preprint is at: https://www.biorxiv.org/content/10.1101/
 ## Notes:
 - Gradient map nii files are in pca_grad_maps/
 - For running dynamical systems model, the main scripts are diffeq_setup.m and diffeq_forecast.m
-- Voxelwise PCA is in fmri_
+- Voxelwise PCA is in fmri_voxelwise_pca.ipynb
 - Allen gene analysis is in allen_gene_analysis.m
 
+**Data**
 grad_ts_pca.npy: 119500x100 gradient slope timeseries for task-free discovery dataset
 
 grad_ts_pca_val_proj_disc.npy: 119500x100 gradient slope timeseries for task-free validation dataset, projected into task-free discovery dataset latent space
@@ -41,9 +42,9 @@ gradients_genes_correlation_discovery.csv: Gradient/gene expression spatial corr
 
 gradients_genes_correlation_validation.csv: first six gradients in the task-free validation dataset (after Procrustes alignment to task-free discovery dataset)
 
-Scripts and Functions:
+**Scripts and Functions:**
 
-diffeq_setup.m: script to load gradient slope timeseries, HCP task regressors, and compute gradient coupling parameters
+**diffeq_setup.m:** script to load gradient slope timeseries, HCP task regressors, and compute gradient coupling parameters
 
 diffeq_forecast.m: scripts to use gradient coupling parameters and simulate gradient timeseries 
 
