@@ -1,0 +1,273 @@
+1 LPCing Left Paracingulate Gyrus
+2 RSFG Right Superior Frontal Gyrus
+3 LSFG Left Superior Frontal Gyrus
+4 RSFG Right Superior Frontal Gyrus
+5 LFP Left Frontal Pole
+6 RFP Right Frontal Pole
+7 LSFG Left Superior Frontal Gyrus
+8 RSFG Right Superior Frontal Gyrus
+9 LSMA Left Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+10 RSMA Right Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+11 LPCing Left Paracingulate Gyrus
+12 RPCing Right Paracingulate Gyrus
+13 LPCing Left Paracingulate Gyrus
+14 RFP Right Frontal Pole
+15 LFP Left Frontal Pole
+16 RMFG Right Middle Frontal Gyrus
+17 LMFG Left Middle Frontal Gyrus
+18 RMFG Right Middle Frontal Gyrus
+19 LFP Left Frontal Pole
+20 RFP Right Frontal Pole
+21 LFP Left Frontal Pole
+22 RFP Right Frontal Pole
+23 LMFG Left Middle Frontal Gyrus
+24 RMFG Right Middle Frontal Gyrus
+25 LMFG Left Middle Frontal Gyrus
+26 RMFG Right Middle Frontal Gyrus
+27 LFP Left Frontal Pole
+28 RFP Right Frontal Pole
+29 LIFGpo Left Inferior Frontal Gyrus pars opercularis
+30 RIFGpo Right Inferior Frontal Gyrus pars opercularis
+31 LIFGpt Left Inferior Frontal Gyrus pars triangularis
+32 RIFGpt Right Inferior Frontal Gyrus pars triangularis
+33 LIFGpt Left Inferior Frontal Gyrus pars triangularis
+34 RIFGpo Right Inferior Frontal Gyrus pars opercularis
+35 LFP Left Frontal Pole
+36 RFP Right Frontal Pole
+37 LFOC Left Frontal Operculum Cortex
+38 RFOprc Right Frontal Operculum Cortex
+39 LIFGpo Left Inferior Frontal Gyrus pars opercularis
+40 RIFGpo Right Inferior Frontal Gyrus pars opercularis
+41 LMPFC Left Frontal Medial Cortex
+42 RPCing Right Paracingulate Gyrus
+43 LOFC Left Frontal Orbital Cortex
+44 RFP Right Frontal Pole
+45 LFP Left Frontal Pole
+46 RFP Right Frontal Pole
+47 LMPFC Left Frontal Medial Cortex
+48 RFP Right Frontal Pole
+49 LSbcal Left Subcallosal Cortex
+50 RSbcal Right Subcallosal Cortex
+51 LOFC Left Frontal Orbital Cortex
+52 ROFC Right Frontal Orbital Cortex
+53 LPosCG Left Precentral Gyrus
+54 RPreCG Right Precentral Gyrus
+55 LPosCG Left Precentral Gyrus
+56 RPreCG Right Precentral Gyrus
+57 LPosCG Left Precentral Gyrus
+58 RPreCG Right Precentral Gyrus
+59 LPosCG Left Precentral Gyrus
+60 RPreCG Right Precentral Gyrus
+61 LCOprc Left Central Opercular Cortex
+62 RCOprc Right Central Opercular Cortex
+63 LPosCG Left Precentral Gyrus
+64 RPreCG Right Precentral Gyrus
+65 LPreCG Left Postcentral Gyrus
+66 RPosCG Right Postcentral Gyrus
+67 LPosCG Left Precentral Gyrus
+68 RPreCG Right Precentral Gyrus
+69 LTP Left Temporal Pole
+70 RTP Right Temporal Pole
+71 LPlTem Left Planum Temporale
+72 RPlTem Right Planum Temporale
+73 LHes Left Heschl's Gyrus (includes H1 and H2)
+74 RPlPol Right Planum Polare
+75 LSTp Left Superior Temporal Gyrus posterior division
+76 RSTp Right Superior Temporal Gyrus posterior division
+77 LTP Left Temporal Pole
+78 RTP Right Temporal Pole
+79 LSTa Left Superior Temporal Gyrus anterior division
+80 RSTp Right Superior Temporal Gyrus posterior division
+81 LMTp Left Middle Temporal Gyrus posterior division
+82 RMTp Right Middle Temporal Gyrus posterior division
+83 LMTa Left Middle Temporal Gyrus anterior division
+84 RMTa Right Middle Temporal Gyrus anterior division
+85 LMTto Left Middle Temporal Gyrus temporooccipital part
+86 RMTto Right Middle Temporal Gyrus temporooccipital part
+87 LMTp Left Middle Temporal Gyrus posterior division
+88 RMTp Right Middle Temporal Gyrus posterior division
+89 LITp Left Inferior Temporal Gyrus posterior division
+90 RITp Right Inferior Temporal Gyrus posterior division
+91 LITto Left Inferior Temporal Gyrus temporooccipital part
+92 RITto Right Inferior Temporal Gyrus temporooccipital part
+93 LITa Left Inferior Temporal Gyrus anterior division
+94 RITa Right Inferior Temporal Gyrus anterior division
+95 LITp Left Inferior Temporal Gyrus posterior division
+96 RITp Right Inferior Temporal Gyrus posterior division
+97 LLOcci Left Lateral Occipital Cortex inferior division
+98 RITto Right Inferior Temporal Gyrus temporooccipital part
+99 LITp Left Inferior Temporal Gyrus posterior division
+100 RITto Right Inferior Temporal Gyrus temporooccipital part
+101 LITp Left Inferior Temporal Gyrus posterior division
+102 RITp Right Inferior Temporal Gyrus posterior division
+103 LTFusp Left Temporal Fusiform Cortex posterior division
+104 RTFusp Right Temporal Fusiform Cortex posterior division
+105 LOFus Left Occipital Fusiform Gyrus
+106 ROFus Right Occipital Fusiform Gyrus
+107 LTOFus Left Temporal Occipital Fusiform Cortex
+108 RTOFus Right Temporal Occipital Fusiform Cortex
+109 LPHGa Left Parahippocampal Gyrus anterior division
+110 RPHGa Right Parahippocampal Gyrus anterior division
+111 LPHGp Left Parahippocampal Gyrus posterior division
+112 RPHGp Right Parahippocampal Gyrus posterior division
+113 LPHGp Left Parahippocampal Gyrus posterior division
+114 RPHGp Right Parahippocampal Gyrus posterior division
+115 LPHGa Left Parahippocampal Gyrus anterior division
+116 RPHGa Right Parahippocampal Gyrus anterior division
+117 LPHGa Left Parahippocampal Gyrus anterior division
+118 RPHGa Right Parahippocampal Gyrus anterior division
+119 LPHGp Left Parahippocampal Gyrus posterior division
+120 RLing Right Lingual Gyrus
+121 LSTp Left Superior Temporal Gyrus posterior division
+122 RMTto Right Middle Temporal Gyrus temporooccipital part
+123 LMTto Left Middle Temporal Gyrus temporooccipital part
+124 RSMGp Right Supramarginal Gyrus posterior division
+125 LLOccs Left Lateral Occipital Cortex superior division
+126 RLOccs Right Lateral Occipital Cortex superior division
+127 LLOccs Left Lateral Occipital Cortex superior division
+128 RLOccs Right Lateral Occipital Cortex superior division
+129 LSPL Left Superior Parietal Lobule
+130 RSPL Right Superior Parietal Lobule
+131 LSPL Left Superior Parietal Lobule
+132 RSPL Right Superior Parietal Lobule
+133 LLOccs Left Lateral Occipital Cortex superior division
+134 RSPL Right Superior Parietal Lobule
+135 LLOccs Left Lateral Occipital Cortex superior division
+136 RLOccs Right Lateral Occipital Cortex superior division
+137 LLOccs Left Lateral Occipital Cortex superior division
+138 RLOccs Right Lateral Occipital Cortex superior division
+139 LSMGa Left Supramarginal Gyrus anterior division
+140 RSMGp Right Supramarginal Gyrus posterior division
+141 LSMGp Left Supramarginal Gyrus posterior division
+142 RSMGp Right Supramarginal Gyrus posterior division
+143 LLOccs Left Lateral Occipital Cortex superior division
+144 RAng Right Angular Gyrus
+145 LPOprc Left Parietal Operculum Cortex
+146 RPOC Right Parietal Operculum Cortex
+147 LPcun Left Precuneous Cortex
+148 RPcun Right Precuneous Cortex
+149 LPcun Left Precuneous Cortex
+150 RPcun Right Precuneous Cortex
+151 LPcun Left Precuneous Cortex
+152 RPcun Right Precuneous Cortex
+153 LPcun Left Precuneous Cortex
+154 RPcun Right Precuneous Cortex
+155 LPreCG Left Postcentral Gyrus
+156 RPosCG Right Postcentral Gyrus
+157 LCOprc Left Central Opercular Cortex
+158 RCOprc Right Central Opercular Cortex
+159 LPreCG Left Postcentral Gyrus
+160 RPosCG Right Postcentral Gyrus
+161 LPreCG Left Postcentral Gyrus
+162 RPosCG Right Postcentral Gyrus
+163 LIns Left Insular Cortex
+164 RIns Right Insular Cortex
+165 LIns Left Insular Cortex
+166 RIns Right Insular Cortex
+167 LIns Left Insular Cortex
+168 RIns Right Insular Cortex
+169 LIns Left Insular Cortex
+170 RIns Right Insular Cortex
+171 LIns Left Insular Cortex
+172 RIns Right Insular Cortex
+173 LIns Left Insular Cortex
+174 RIns Right Insular Cortex
+175 LPCC Left Cingulate Gyrus posterior division
+176 RPCC Right Cingulate Gyrus posterior division
+177 LACC Left Cingulate Gyrus anterior division
+178 RLV Right Lateral Ventricle
+179 LACC Left Cingulate Gyrus anterior division
+180 RACC Right Cingulate Gyrus anterior division
+181 LPCC Left Cingulate Gyrus posterior division
+182 RPCC Right Cingulate Gyrus posterior division
+183 LACC Left Cingulate Gyrus anterior division
+184 RACC Right Cingulate Gyrus anterior division
+185 LPCC Left Cingulate Gyrus posterior division
+186 RPCC Right Cingulate Gyrus posterior division
+187 LACC Left Cingulate Gyrus anterior division
+188 RACC Right Cingulate Gyrus anterior division
+189 LLing Left Lingual Gyrus
+190 RLing Right Lingual Gyrus
+191 LIC Left Intracalcarine Cortex
+192 RCalc Right Intracalcarine Cortex
+193 LOP Left Occipital Pole
+194 ROP Right Occipital Pole
+195 LLing Left Lingual Gyrus
+196 RLing Right Lingual Gyrus
+197 LIC Left Intracalcarine Cortex
+198 RCalc Right Intracalcarine Cortex
+199 LOP Left Occipital Pole
+200 RLOcci Right Lateral Occipital Cortex inferior division
+201 LLOcci Left Lateral Occipital Cortex inferior division
+202 RLOcci Right Lateral Occipital Cortex inferior division
+203 LOP Left Occipital Pole
+204 ROP Right Occipital Pole
+205 LLOcci Left Lateral Occipital Cortex inferior division
+206 RLOcci Right Lateral Occipital Cortex inferior division
+207 LCun Left Cuneal Cortex
+208 RLOccs Right Lateral Occipital Cortex superior division
+209 LLOccs Left Lateral Occipital Cortex superior division
+210 RLOccs Right Lateral Occipital Cortex superior division
+211 LAmyg Left Amygdala
+212 RAmyg Right Amygdala
+213 LAmyg Left Amygdala
+214 RAmyg Right Amygdala
+215 LHip Left Hippocampus
+216 RHip Right Hippocampus
+217 LHip Left Hippocampus
+218 RHip Right Hippocampus
+219 LCdt Left Caudate
+220 RPut Right Putamen
+221 LGP Left Pallidum
+222 RPut Right Putamen
+223 LP Left Putamen
+224 RPut Right Putamen
+225 LP Left Putamen
+226 RPut Right Putamen
+227 LCdt Left Caudate
+228 RCdt Right Caudate
+229 LP Left Putamen
+230 RPut Right Putamen
+231 LTh Left Thalamus
+232 RTh Right Thalamus
+233 LTh Left Thalamus
+234 RTh Right Thalamus
+235 LTh Left Thalamus
+236 RTh Right Thalamus
+237 LTh Left Thalamus
+238 RTh Right Thalamus
+239 LTh Left Thalamus
+240 RTh Right Thalamus
+241 LTh Left Thalamus
+242 RTh Right Thalamus
+243 LTh Left Thalamus
+244 RTh Right Thalamus
+245 LTh Left Thalamus
+246 RTh Right Thalamus
+247 LCrb14 Left I-IV
+248 RI Right I-IV
+249 LCrb5 Left V
+250 RCrb5 Right V
+251 LCrb6 Left VI
+252 CrbVrm6 Vermis VI
+253 RCrb6 Right VI
+254 LCrbC1 Left Crus I
+255 RCrbC1 Right Crus I
+256 LCrbC2 Left Crus II
+257 CrbVrmC2 Vermis Crus II
+258 RCrbC2 Right Crus II
+259 LCrb7b Left VIIb
+260 CrbVrm7b Vermis VIIb
+261 RCrb7b Right VIIb
+262 LV Left VIIIa
+263 CrbVrm8a Vermis VIIIa
+264 RCrb8a Right VIIIa
+265 LCrb8b Left VIIIb
+266 CrbVrm8b Vermis VIIIb
+267 RCrb8b Right VIIIb
+268 LCrb9 Left IX
+269 CrbVrm9 Vermis IX
+270 RCrb9 Right IX
+271 LX Left X
+272 CrbVrm10 Vermis X
+273 RCrb10 Right X
