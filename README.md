@@ -5,6 +5,12 @@ Data and code associated with:<br>
 Jesse A. Brown, Alex J. Lee, Lorenzo Pasquini, William W. Seeley<br>
 currently under review. Preprint is at: https://www.biorxiv.org/content/10.1101/2020.08.12.248112v3
 
+## Notes:
+- Gradient map nii files are in pca_grad_maps/
+- For running dynamical systems model, the main scripts are diffeq_setup.m and diffeq_forecast.m
+- Voxelwise PCA is in fmri_
+- Allen gene analysis is in allen_gene_analysis.m
+
 grad_ts_pca.npy: 119500x100 gradient slope timeseries for task-free discovery dataset
 
 grad_ts_pca_val_proj_disc.npy: 119500x100 gradient slope timeseries for task-free validation dataset, projected into task-free discovery dataset latent space
@@ -46,6 +52,8 @@ coupling_parameters.m: function to compute coupling parameters
 gradient_ode.m: function to solve coupled differential equations
 
 allen_gene_analysis.m: script to perform gradient/gene expression spatial correlations
+
+fmri_voxelwise_pca.ipynb: notebook to perform voxelwise PCA and project task data or validation data into discovery latent space
 
 Helper functions:
 
