@@ -3,11 +3,11 @@ Data and code associated with:
 Jesse A. Brown, Alex J. Lee, Lorenzo Pasquini, William W. Seeley  
 currently under review. Preprint is available at: https://www.biorxiv.org/content/10.1101/2020.08.12.248112v3
 
-## Notes:
-- Gradient map nii files are in pca_grad_maps/
-- For running dynamical systems model, the main scripts are diffeq_setup.m and diffeq_forecast.m
-- Voxelwise PCA is in fmri_voxelwise_pca.ipynb
-- Allen gene analysis is in allen_gene_analysis.m
+**Notes**
+- Gradient map nii files are in **pca_grad_maps/**
+- To run the dynamical systems model, the main scripts are **diffeq_setup.m** and **diffeq_forecast.m**
+- Voxelwise PCA code is in **fmri_voxelwise_pca.ipynb**
+- Allen gene expression analysis is in **allen_gene_analysis.m**
 
 
 **Scripts and Functions:**
