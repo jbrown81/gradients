@@ -3,15 +3,14 @@ Data and code associated with:
 Jesse A. Brown, Alex J. Lee, Lorenzo Pasquini, William W. Seeley  
 currently under review. Preprint is available at: https://www.biorxiv.org/content/10.1101/2020.08.12.248112v3
 
-**Notes**
+## **Notes:**
 - Gradient map nii files are in **pca_grad_maps/**
 - To run the dynamical systems model, the main scripts are **diffeq_setup.m** and **diffeq_forecast.m**
 - Voxelwise PCA code is in **fmri_voxelwise_pca.ipynb**
 - Allen gene expression analysis is in **allen_gene_analysis.m**
 
 
-**Scripts and Functions:**
-
+## **Scripts and Functions:**
 - **diffeq_setup.m:** script to load gradient slope timeseries, HCP task regressors, and compute gradient coupling parameters
 - **diffeq_forecast.m:** scripts to use gradient coupling parameters and simulate gradient timeseries 
 - **coupling_parameters.m:** function to compute coupling parameters
@@ -19,7 +18,7 @@ currently under review. Preprint is available at: https://www.biorxiv.org/conten
 - **allen_gene_analysis.m:** script to perform gradient/gene expression spatial correlations
 - **fmri_voxelwise_pca.ipynb:** notebook to perform voxelwise PCA and project task data or validation data into discovery latent space
 
-**Data**
+## **Data:**
 - **grad_ts_pca.npy:** 119500x100 gradient slope timeseries for task-free discovery dataset
 - **grad_ts_pca_val_proj_disc.npy:** 119500x100 gradient slope timeseries for task-free validation dataset, projected into task-free discovery dataset latent space
 - **grad_ts_pca_task_proj_disc.npy:** 116100x100 gradient slope timeseries for task discovery dataset, projected into task-free discovery dataset latent space
@@ -34,5 +33,5 @@ currently under review. Preprint is available at: https://www.biorxiv.org/conten
 - **gradients_genes_correlation_validation.csv:** first six gradients in the task-free validation dataset (after Procrustes alignment to task-free discovery dataset)
 
 
-**Helper functions:**
+## **Helper functions:**
 - readNPY.m, readNPYheader.m
