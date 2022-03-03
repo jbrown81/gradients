@@ -21,24 +21,7 @@
 % simulate timeseries starting from resting intial conditions: rest/condition_1, OR rest/condition_2
 load('rand10k.mat'); % set of 10000 random resting state timepoints used in paper
 n_sims=1000;
-keep_comps=[1:6]; % keep_comps is the subset of latent dimensions/gradients to use
-
-% load coupling parameters
-switch task
-    case 'wm'
-        load('coupling_parameters_wm_block1_discovery.mat'); % load 'betas_cond1'
-        load('coupling_parameters_wm_block2_discovery.mat'); % load 'betas_cond2'
-    case 'motor'
-        load('coupling_parameters_motor_block1_discovery.mat');
-        load('coupling_parameters_motor_block2_discovery.mat');
-    case 'language'
-        load('coupling_parameters_language_block1_discovery.mat');
-        load('coupling_parameters_language_block2_discovery.mat');
-    case 'emotion'
-        load('coupling_parameters_emotion_block1_discovery.mat');
-        load('coupling_parameters_emotion_block2_discovery.mat');
-end
-load('coupling_parameters_rest_discovery.mat'); % load 'betas_rest'  
+keep_comps=[1:6]; % keep_comps is the subset of latent dimensions/gradients to use 
 
 % make simulations using gradient_ode.m function
 % 'pred_interval' is set to 200 timepoints; and tspan from 0-200 with stepsize of 1;

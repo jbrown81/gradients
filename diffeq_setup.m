@@ -14,10 +14,10 @@ maindir='/Users/jessebrown/Dropbox/latent_fmri/final_paper_data/';
 cd(maindir)
 load_data=false;
 if load_data
-    % resting data for 100 discovery subjects + 100 validation subjects
+    % resting gradient timeseries data for 100 discovery subjects + 100 validation subjects
     components_pca=readNPY('grad_ts_pca.npy');
     components_pca_val=readNPY('grad_ts_pca_val_proj_disc.npy');
-    % task data for all 200 discovery + validation subjects
+    % task gradient timeseries data for all 200 discovery + validation subjects
     components_pca_task_disc=readNPY('grad_ts_pca_task_proj_disc.npy');
     components_pca_task_val=readNPY('grad_ts_pca_task_val_proj_disc.npy');
 end
