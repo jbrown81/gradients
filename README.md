@@ -11,10 +11,19 @@ currently under review. Preprint is at: https://www.biorxiv.org/content/10.1101/
 - Voxelwise PCA is in fmri_voxelwise_pca.ipynb
 - Allen gene analysis is in allen_gene_analysis.m
 
-**Data**
-grad_ts_pca.npy: 119500x100 gradient slope timeseries for task-free discovery dataset
 
-grad_ts_pca_val_proj_disc.npy: 119500x100 gradient slope timeseries for task-free validation dataset, projected into task-free discovery dataset latent space
+**Scripts and Functions:**
+
+- **diffeq_setup.m:** script to load gradient slope timeseries, HCP task regressors, and compute gradient coupling parameters
+- **diffeq_forecast.m:** scripts to use gradient coupling parameters and simulate gradient timeseries 
+- **coupling_parameters.m:** function to compute coupling parameters
+- **gradient_ode.m:** function to solve coupled differential equations
+- **allen_gene_analysis.m:** script to perform gradient/gene expression spatial correlations
+- **fmri_voxelwise_pca.ipynb:** notebook to perform voxelwise PCA and project task data or validation data into discovery latent space
+
+**Data**
+- grad_ts_pca.npy: 119500x100 gradient slope timeseries for task-free discovery dataset
+- grad_ts_pca_val_proj_disc.npy: 119500x100 gradient slope timeseries for task-free validation dataset, projected into task-free discovery dataset latent space
 
 grad_ts_pca_task_proj_disc.npy: 116100x100 gradient slope timeseries for task discovery dataset, projected into task-free discovery dataset latent space
 
@@ -42,20 +51,7 @@ gradients_genes_correlation_discovery.csv: Gradient/gene expression spatial corr
 
 gradients_genes_correlation_validation.csv: first six gradients in the task-free validation dataset (after Procrustes alignment to task-free discovery dataset)
 
-**Scripts and Functions:**
 
-**diffeq_setup.m:** script to load gradient slope timeseries, HCP task regressors, and compute gradient coupling parameters
-
-diffeq_forecast.m: scripts to use gradient coupling parameters and simulate gradient timeseries 
-
-coupling_parameters.m: function to compute coupling parameters
-
-gradient_ode.m: function to solve coupled differential equations
-
-allen_gene_analysis.m: script to perform gradient/gene expression spatial correlations
-
-fmri_voxelwise_pca.ipynb: notebook to perform voxelwise PCA and project task data or validation data into discovery latent space
-
-Helper functions:
+**Helper functions:**
 
 readNPY.m, readNPYheader.m
