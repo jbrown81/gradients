@@ -6,7 +6,7 @@
 % gradient timeseries simulation
 % this script is intended to run after running diffeq_setup.m with a
 % specific task specified ('wm','motor','language', or 'emotion')
-% other required variables from diffeq_setup.m: 
+% other variables that may be required from diffeq_setup.m: 
 % 'grad_slopes_rest', 'grad_slope_deltas_rest', 'block1_inds_all', 'block2_inds_all', 
 % 'components_pca', 'components_pca_val', 'components_pca_task',
 % 'grad_means_rest', 'grad_means_cond1', 'grad_means_cond2'

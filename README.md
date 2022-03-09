@@ -27,8 +27,8 @@ currently under review. Preprint is available at: https://www.biorxiv.org/conten
 - **pca_grad_maps/pca_grad_disc_001.nii.gz, ... pca_grad_disc_100.nii.gz, pca_grad_val_001.nii.gz, ... pca_grad_val_100.nii.gz, pca_grad_disc_task_001.nii.gz, ... pca_grad_disc_task_100.nii.gz:** voxel-wise gradient weight maps for the first 100 PCA components from the task-free discovery dataset, task-free validation dataset, and task discovery dataset, each based on independent PCA estimation
 - **273_rois/vol_1.nii.gz, ... vol_273.nii.gz:** 273 regions of interest using a parcellation of 246 cortical and subcortical regions from the Brainnetome atlas (http://www.brainnetome.org/) and 27 cerebellar regions from the SUIT atlas (http://www.diedrichsenlab.org/imaging/suit.htm); region names are listed in **brainnetome_region_abbrevs_names_273.txt**
 - **allen_expression_brainnetome_261_15655.mat:** Allen Human Brain spatial gene expression patterns for 261 out 273 regions for 15655 genes; 261/273 indices are listed in **keep_nodes_allen_brainnetome_261.mat**, gene names are listed in **all_allen_genes.mat**; expression values were derived using abagen (https://abagen.readthedocs.io/en/latest/usage.html)
-- **gradients_genes_correlation_discovery.csv:** Gradient/gene expression spatial correlation coefficients for 15655 genes for the first six gradients in the task-free discovery dataset
-- **gradients_genes_correlation_validation.csv:** first six gradients in the task-free validation dataset (after Procrustes alignment to task-free discovery dataset)
+- **gradients_genes_correlation_discovery.csv:** gradient/gene expression spatial correlation coefficients for 15655 genes for the first six gradients in the task-free discovery dataset
+- **gradients_genes_correlation_validation.csv:** gradient/gene expression spatial correlation coefficients for 15655 genes for the first six gradients in the task-free validation dataset (after Procrustes alignment to task-free discovery dataset)
 
 ## **Helper functions:**
 - readNPY.m, readNPYheader.m
