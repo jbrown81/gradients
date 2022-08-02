@@ -1,7 +1,7 @@
 Data and code associated with:  
 **A dynamic gradient architecture generates brain activity states**  
 Jesse A. Brown, Alex J. Lee, Lorenzo Pasquini, William W. Seeley  
-currently under review. Preprint is available at: https://www.biorxiv.org/content/10.1101/2020.08.12.248112v3
+https://doi.org/10.1016/j.neuroimage.2022.119526
 
 ## **Notes:**
 - Gradient map nii files are in **pca_grad_maps/**
